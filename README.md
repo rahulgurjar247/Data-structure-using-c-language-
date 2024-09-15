@@ -1,2 +1,1 @@
-.vscode
-*.exe
+Data Structure in C language
